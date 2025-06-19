@@ -17,7 +17,7 @@ This project is a machine learning-based desktop application developed using Pyt
 Purpose of the Project
 The application helps users understand the process of decision tree classification in a real-world context — loan approval. A decision tree is an intuitive, tree-structured machine learning algorithm used for classification and regression. It splits data into branches based on feature values, making it ideal for transparent decision-making.
 
-Technologies and Libraries Used
+Technologies and Libraries Used :
 Python – Core programming language.
 
 Tkinter – For building the GUI.
@@ -59,6 +59,6 @@ Helps users visualize how decision trees make decisions.
 
 Can be extended for other classification tasks.
 
-Conclusion
+Conclusion: 
 The Loan Approval Classifier is an accessible, visual, and interactive way to apply machine learning using decision trees. It integrates model training, evaluation, visualization, and prediction in one cohesive GUI — perfect for learners, educators, and anyone curious about machine learning in practical scenarios.
 
