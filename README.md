@@ -61,6 +61,8 @@ Can be extended for other classification tasks.
 
 Conclusion: 
 The Loan Approval Classifier is an accessible, visual, and interactive way to apply machine learning using decision trees. It integrates model training, evaluation, visualization, and prediction in one cohesive GUI — perfect for learners, educators, and anyone curious about machine learning in practical scenarios.
+
+OUTPUT : 
 ![Image](https://github.com/user-attachments/assets/f9780140-822e-43ca-a39d-222adfa08f20)
 ![Image](https://github.com/user-attachments/assets/3d6c3a1e-6f25-4923-a855-578474cb9e99)
 ![Image](https://github.com/user-attachments/assets/f573d1db-7485-4ab3-87f5-dc52b4b3c2c3)
